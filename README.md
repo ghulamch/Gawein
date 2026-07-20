@@ -192,22 +192,6 @@ gawein/
 
 ---
 
-## 🤝 Kontribusi
-
-1. Fork repositori ini
-2. Buat branch: `git checkout -b fitur/nama-fitur`
-3. Commit: `git commit -m 'feat: tambahkan fitur X'`
-4. Push: `git push origin fitur/nama-fitur`
-5. Buat Pull Request
-
----
-
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
----
-
 <div align="center">
 
 Dibuat dengan ❤️ untuk pekerja informal Indonesia
